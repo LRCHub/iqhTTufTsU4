@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "I Believe In You (Official Video)",
+  "base_artist": "Joe",
+  "createdAt": "2025-12-02T08:56:34.075876Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I believe in you",
+      "artist": "Agnes",
+      "has_synced": true,
+      "path": "select/01_I_believe_in_you_Agnes.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Believe in You",
+      "artist": "Priest",
+      "has_synced": true,
+      "path": "select/02_I_Believe_in_You_Priest.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Believe in You",
+      "artist": "Juris",
+      "has_synced": true,
+      "path": "select/03_I_Believe_in_You_Juris.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I believe in you",
+      "artist": "5'nizza",
+      "has_synced": false,
+      "path": "select/04_I_believe_in_you_5'nizza.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Believe in You",
+      "artist": "Fabvl",
+      "has_synced": true,
+      "path": "select/05_I_Believe_in_You_Fabvl.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Believe in You",
+      "artist": "Luminous",
+      "has_synced": false,
+      "path": "select/06_I_Believe_in_You_Luminous.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Believe in You",
+      "artist": "Kestrel",
+      "has_synced": false,
+      "path": "select/07_I_Believe_in_You_Kestrel.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "i believe in you",
+      "artist": "Various",
+      "has_synced": false,
+      "path": "select/08_i_believe_in_you_Various.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Believe In You",
+      "artist": "Neil Young",
+      "has_synced": false,
+      "path": "select/09_I_Believe_In_You_Neil_Young.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Believe in You",
+      "artist": "Toy-Box",
+      "has_synced": true,
+      "path": "select/10_I_Believe_in_You_Toy-Box.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Believe In You",
+      "artist": "Cat Power",
+      "has_synced": true,
+      "path": "select/11_I_Believe_In_You_Cat_Power.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Believe in You",
+      "artist": "Howard Jones",
+      "has_synced": true,
+      "path": "select/12_I_Believe_in_You_Howard_Jones.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Believe In You",
+      "artist": "No Angels",
+      "has_synced": true,
+      "path": "select/13_I_Believe_In_You_No_Angels.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Believe (In You)",
+      "artist": "Donna Summer",
+      "has_synced": false,
+      "path": "select/14_I_Believe_(In_You)_Donna_Summer.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Believe In You",
+      "artist": "Y & T",
+      "has_synced": false,
+      "path": "select/15_I_Believe_In_You_Y_&_T.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Believe In You",
+      "artist": "Rick James",
+      "has_synced": false,
+      "path": "select/16_I_Believe_In_You_Rick_James.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I Believe in You",
+      "artist": "Joe",
+      "has_synced": false,
+      "path": "select/pl_01_I_Believe_in_You_Joe.txt"
+    }
+  ]
+}
